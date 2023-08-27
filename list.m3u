@@ -1,4 +1,13 @@
-#EXTM3U
+#EXTM3U url-logo="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
+#EXTINF:-999 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e2a0874ed649b3ec721875b1892310d2.webp" group-title="24/7 - MÚSICA",AMORDISCOS
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=782950e6
+
+#EXTINF:-400 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="24/7 - MÚSICA",TOP MUSIC
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w738429815.m3u8
+
+#EXTINF:-999 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d48ad13c1fa2244fa089aed5e44e8fcd.webp" group-title="24/7 - MÚSICA", PORTAL CARIBEÑO
+https://stream.ads.ottera.tv/cl/230827cjlcj15m3b6ejgtimomg/1280x720_2300000_0_f.m3u8?i=475_1083
+
 #EXTINF:-400 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="24/7 - MÚSICA", PORTAL FOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
 
@@ -33,10 +42,13 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 
 #EXTINF:-405 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="24/7 - MÚSICA", RETRO PLUS TV 1
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1271975205.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1253943979.m3u8
 
 #EXTINF:-406 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="24/7 - MÚSICA", RETRO PLUS TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w653594315.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1900140617.m3u8
+
+#EXTINF:-999 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="24/7 - MÚSICA", RETRO PLUS TV 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w170883974.m3u8
 
 #EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="24/7 - MÚSICA", MCRT 80'S
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8
@@ -275,6 +287,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dnews.json
 https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
+#EXTINF:-999 tvg-id="24 HORAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/83f100a837dfc306735334e2ac8c3e6a.webp" group-title="NEWS",CGTN EN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-999 tvg-id="24 HORAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="NEWS",DW EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
 #EXTINF:-999 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NEWS", 24 HORAS
 https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
@@ -1050,6 +1067,9 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/cinecanal.json
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
 
+#EXTINF:-999 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cinema.jpg?itok=aNc4Zfaf" group-title="CINE Y SERIES",CINEMA
+https://stream.ads.ottera.tv/cl/230827cjlcs85m3b6ejgtip840/1280x720_3071200_0_f.m3u8?i=475_4829
+
 #EXTINF:-999 tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/comedycentral.json
@@ -1538,6 +1558,9 @@ https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/
 
 #EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE EN ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE EN ESPAÑOL OPC 2
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE (España)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
