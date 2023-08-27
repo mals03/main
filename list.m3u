@@ -1,4 +1,32 @@
 #EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",REDLIGHT TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=YOUR_AGENT
+#EXTVLCOPT:http-referer="http://oxax.tv/redlight-hd.html"
+https://ip4.pokaz.me:1443/12/index.m3u8?wmsAuthSign=1693123009p512i451i722i102Saae83808ceaea39b8f6cf2f038a0e559
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",PLAYBOY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=YOUR_AGENT
+#EXTVLCOPT:http-referer="http://oxax.tv/playboy-tv.html"
+https://ip3.pokaz.me:1443/6/index.m3u8?wmsAuthSign=1693123398p512i451i722i102S8a95f3277987c35c3521255541334f0e
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",O-LA-LA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=YOUR_AGENT
+#EXTVLCOPT:http-referer="http://oxax.tv/o-la-la.html"
+https://ip4.pokaz.me:1443/17/index.m3u8?wmsAuthSign=1693123512p512i451i722i102Sb28334b0c6aef7e3be30fda74dc4fd06
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",EROXXX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=YOUR_AGENT
+#EXTVLCOPT:http-referer="http://oxax.tv/eroxxx-hd.html"
+https://ip4.pokaz.me:1443/47/index.m3u8?wmsAuthSign=1693123627p512i451i722i102S749701298300fab95b98d5ff65c5fbec
+
 #EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT", BABESTATION TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/64d4a268ba585_12812337_2308100840_720p.m3u8
 
