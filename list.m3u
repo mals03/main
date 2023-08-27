@@ -348,6 +348,120 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-999 tvg-logo="https://i.ibb.co/s5Z8LMH/RT.png" group-title="NEWS", RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
+#EXTINF:-2 tvg-id=""6 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES Y COMPETENCIAS", CLARO SPORTS
+http://45.179.140.242:8000/play/a0ht
+
+#EXTINF:-2 tvg-id=""001 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA Ñ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
+
+#EXTINF:-30 tvg-logo="https://logicaldesign.pe/images/contenido/cliente_logo_ovacion.pe.png" group-title="DEPORTES Y COMPETENCIAS", OVACIÓN
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-30 tvg-logo="https://pbs.twimg.com/profile_images/935384155977854976/CR7P0FmD.jpg" group-title="DEPORTES Y COMPETENCIAS", BEST CABLE SPORTS
+https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
+
+#EXTINF:-32 tvg-logo="https://pbs.twimg.com/profile_images/955807275117174784/oPNrCwAs.jpg" group-title="DEPORTES Y COMPETENCIAS", EL GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/fb424W38/fuel-tv.png" group-title="DEPORTES Y COMPETENCIAS", FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/t4GPgZMb/VELOCIDAD.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV VELOCIDAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
+
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/s2NPwLm1/motor.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV MOTOR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true
+
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/76Cww8p7/MOTORVISION-TV.png" group-title="DEPORTES Y COMPETENCIAS", MOTORVISION TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/wBFhTygz/tuning.png" group-title="DEPORTES Y COMPETENCIAS", TUNING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f82660-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3633f890-4bf6-461d-a1c6-0cd4bb26c306&userId=&serverSideAds=true
+
+#EXTINF:-33 tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS", DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+
+#EXTINF:-33 tvg-logo="https://i.ibb.co/qWhn5N8/Apple-Onion-2016.png" group-title="DEPORTES Y COMPETENCIAS", FÚTBOL PARA FANS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
+
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/nhbg22CD/DEPORTES.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV DEPORTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
+
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV PELEAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/MGksqpyf/COMPETENCIAS.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
+
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/MGxGC1rc/SONY-COMPETENCIAS.png" group-title="DEPORTES Y COMPETENCIAS", SONY CANAL COMPETENCIAS
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/mkBFGT1q/ESCAPEPERFECTO.png" group-title="DEPORTES Y COMPETENCIAS", SONY CANAL ESCAPE PERFECTO
+https://stitcher.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
+
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/1200px-CG_logo_final.svg.png" group-title="DEPORTES Y COMPETENCIAS", COMBATE GLOBAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="DEPORTES Y COMPETENCIAS", ALL ELITE WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
+
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS", LUCHA LIBRE AAA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+
+#EXTINF:-3300 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS", LUCHA LIBRE AAA 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
+
+#EXTINF:-3300 tvg-logo="https://i.postimg.cc/HWzMzx2j/action-sports.png" group-title="DEPORTES Y COMPETENCIAS", ACTION SPORTS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
+
+#EXTINF:-3300 tvg-logo="https://i.postimg.cc/HWzMzx2j/action-sports.png" group-title="DEPORTES Y COMPETENCIAS", ACTION SPORTS 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a103ec00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05cde875-5856-4889-a846-2559db77631d&userId=&serverSideAds=true
+
+#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES Y COMPETENCIAS", MLB NETWORK
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-35 tvg-logo="https://i.postimg.cc/QNYRWNsJ/mlb.png" group-title="DEPORTES Y COMPETENCIAS", MLB CHANNEL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/red-bull-logo-7.png" group-title="DEPORTES Y COMPETENCIAS", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-36 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES Y COMPETENCIAS", MLS TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2020/10/Tennis-Channel-web.jpg" group-title="DEPORTES Y COMPETENCIAS", TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-36 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2313/files/2020/05/1200px-PGA_Tour_logo.svg_.png" group-title="DEPORTES Y COMPETENCIAS", PGA TOUR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/7LgkgFXY/nfl.png" group-title="DEPORTES Y COMPETENCIAS", NFL CHANNEL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/ZqqQqXgM/stadium.png" group-title="DEPORTES Y COMPETENCIAS", STADIUM
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c760861-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05184fc6-bf46-4f02-8ffe-2445a75fbebd&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://solowrestling.mundodeportivo.com/uploads/RESEM90608IMPACTO.jpg" group-title="DEPORTES Y COMPETENCIAS", IMPACT WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/MHBNSR4Z/prowrestling.png" group-title="DEPORTES Y COMPETENCIAS", PRO WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-36 tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="DEPORTES Y COMPETENCIAS", FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-36 tvg-logo="https://img2.pngio.com/bellator-mma-thesportsdbcom-bellator-mma-png-800_310.png" group-title="DEPORTES Y COMPETENCIAS", BELLATOR MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/C11cFDZT/fight.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV FIGHT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
+
+#EXTINF:-36 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/whizka1590358958.png" group-title="DEPORTES Y COMPETENCIAS", GLORY KICKBOXING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+
 #EXTINF:-999 tvg-logo="https://i.ibb.co/YbbKjxc/bcs.jpg" group-title="DEPORTES", BESTCABLE SPORTS
 https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
 
@@ -761,23 +875,26 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
-#EXTINF:-999 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN
+#EXTINF:-999 tvg-logo="https://i.ibb.co/jvLxT53/golden.png" group-title="CINE Y SERIES", GOLDEN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/golden.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+http://138.59.177.34:8000/play/a04d/index.m3u8
 
-#EXTINF:-999 tvg-logo="https://i.ibb.co/Jp1TrGx/Golden-Edge-Logo.png" group-title="CINE Y SERIES", GOLDEN EDGE
+#EXTINF:-999 tvg-logo="https://i.ibb.co/VmvsS2x/640px-Golden-Edge-Logo-2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/goldenedge.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+http://181.78.8.90:16123/play/ch47
 
-#EXTINF:-999 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN PLUS
+#EXTINF:-999 tvg-logo="https://i.ibb.co/Jcr74Zz/Golden-Plus-2020.png" group-title="CINE Y SERIES", GOLDEN PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/goldenplus.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
+http://181.78.8.90:16123/play/ch46
+
+#EXTINF:-999 tvg-id="" tvg-id="GPRED2SDo" tvg-name="GPRED2SD" tvg-logo="https://i.ibb.co/8KtCy4G/goldenpremier22.png" group-title="CINE Y SERIESS", GOLDEN PREMIER 2
+http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/27.m3u8|User-agentt=https://www.google.com.mx/
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" group-title="CINE Y SERIES", MULTIPLEX DORADO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -834,11 +951,23 @@ https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tlc.json
 https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 
+#EXTINF:-999 tvg-id="Hola TV" tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="ENTRETENIMIENTO", HOLA TV
+http://138.59.177.34:8000/play/a05o/index.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/telemundo.json
 #EXTINF:-999 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" group-title="ENTRETENIMIENTO", TELEMUNDO
 https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+
+#EXTINF:-999 tvg-id="Telemundo Miami" tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="ENTRETENIMIENTO", TELEMUNDO MIAMI
+http://190.27.253.211:8000/play/a06e/index.m3u8
+
+#EXTINF:-999 tvg-logo="https://i.ibb.co/zxL56NL/telemundopuertorico.png" group-title="ENTRETENIMIENTO", TELEMUNDO PUERTO RICO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-999 tvg-id="Telemundo Internacional" tvg-logo="https://i.ibb.co/CWcy003/telemundo-internacional.png" group-title="ENTRETENIMIENTO", Telemundo Internacional
+http://45.166.92.22:58001/play/a00r/index.m3u8
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/1bX12K0/tcm.png" group-title="CINE Y SERIES", TCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -855,6 +984,15 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/id.json
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+
+#EXTINF:-999 tvg-id="" tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="CIENCIA Y CULTURA", AGRO TV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-999 tvg-id="" tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/02/MOSC.png" group-title="CIENCIA  CULTURA", AGROTENDENCIA TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-999 tvg-id="" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg" group-title="CIENCIA Y CULTURA", CHACRA TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" group-title="CINE Y SERIES", HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1394,6 +1532,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSIC BOX", VEVO LATIN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69- 11eb- a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconocido&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
+
+#EXTINF:-999 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="CIENCIA Y CULTURA", NATURE TIME
+https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/cb573d177b6c678d9dd43b61cef241826a371fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7753db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad96da0af1c56942943e69c46c8c608b387d2599c12877eec479fc4a396d211d7d28c6afb54e4795a5d732a9cd97fc19d0aee8aa87953f31980a48e349cc1a3db0c58b64251498a87a1dd56de63000db8e31a5a880f8d5b8c70ab66af1baee24fdac6d37783d158d6a077682aa1a7d0e258f4a3dc14988ec4fc0918b5ff19790da93f9a4a4e496d8c0ec925b45d36cf77f4e235c01af3310ff7bcbf86fdb98e4bd309c3caf5a291232482652f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b83a74cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265851a2a783af960569496d462079e188d079958acf3e0e56900354075a2457c7549839a54f236903c01dc1a31a7b83125344cbae3c4f557f99cea5fbe9f3ce43b03f9e8fca30213f5674ae7162026bc0bd9956ed32292f2bc240ae92d34ba6a8607524597921fc48/11/848x480_1249336/index.m3u8
 
 #EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE EN ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
