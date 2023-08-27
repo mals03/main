@@ -1,4 +1,13 @@
-#EXTM3U url-logo="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
+#EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
+#EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT", BABESTATION TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/64d4a268ba585_12812337_2308100840_720p.m3u8
+
+#EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT",MIAMI TV
+https://59ec5453559f0.streamlock.net/latino/smil:web/chunklist_w1631883560_b1896000.m3u8
+
+#EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT",JENNY TV
+https://59ec5453559f0.streamlock.net/JennyLive/smil:web/chunklist_w143344511_b1896000.m3u8
+
 #EXTINF:-999 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e2a0874ed649b3ec721875b1892310d2.webp" group-title="24/7 - MÚSICA",AMORDISCOS
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=782950e6
 
