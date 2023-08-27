@@ -1161,11 +1161,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MUSIC BOX", VEVO LATIN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69- 11eb- a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconocido&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
-#EXTINF:-999 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE (España)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device DNT=%7BTARGETOPT%7D&dispositivoId =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE EN ESPAÑOL
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-999 tvg-logo="https://i.ibb.co/zZk9yzH/images-q-tbn-ANd9-Gc-Rd-V9-Xd-TNn-TOwktm-XGovdfh1-GM2-Ig-WEcvt-Euq-K0-PSvn-I-1cgv-M-Q7-Jh5-Ior04-KTX.jpg" group-title="CIENCIA Y CULTURA",Love Nature
-http://181.176.148.142:8000/play/a02q
+#EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE (España)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/948nQS4/51713cb38f60e82562a65727ce7d5493-icon.png" group-title="CIENCIA Y CULTURA",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_2.m3u8
