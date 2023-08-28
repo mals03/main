@@ -1,46 +1,37 @@
 #EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",REDLIGHT TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=YOUR_AGENT
-#EXTVLCOPT:http-referer="http://oxax.tv/redlight-hd.html"
-https://ip4.pokaz.me:1443/12/index.m3u8?wmsAuthSign=1693123009p512i451i722i102Saae83808ceaea39b8f6cf2f038a0e559
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",PLAYBOY TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=YOUR_AGENT
-#EXTVLCOPT:http-referer="http://oxax.tv/playboy-tv.html"
-https://ip3.pokaz.me:1443/6/index.m3u8?wmsAuthSign=1693123398p512i451i722i102S8a95f3277987c35c3521255541334f0e
+#EXTINF:-999 tvg-logo="" group-title="ECUADOR",ECUAVISA
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",O-LA-LA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=YOUR_AGENT
-#EXTVLCOPT:http-referer="http://oxax.tv/o-la-la.html"
-https://ip4.pokaz.me:1443/17/index.m3u8?wmsAuthSign=1693123512p512i451i722i102Sb28334b0c6aef7e3be30fda74dc4fd06
+#EXTINF:-999 tvg-logo="" group-title="24/7 - GAMING", eSPORTMAX TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ADULT",EROXXX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=YOUR_AGENT
-#EXTVLCOPT:http-referer="http://oxax.tv/eroxxx-hd.html"
-https://ip4.pokaz.me:1443/47/index.m3u8?wmsAuthSign=1693123627p512i451i722i102S749701298300fab95b98d5ff65c5fbec
+#EXTINF:-999 tvg-logo="" group-title="PANAMA", TVN 2
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 
-#EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT", BABESTATION TV
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/64d4a268ba585_12812337_2308100840_720p.m3u8
+#EXTINF:-999 tvg-logo="" group-title="PANAMA", RPC 4
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
-#EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT",MIAMI TV
-https://59ec5453559f0.streamlock.net/latino/smil:web/chunklist_w1631883560_b1896000.m3u8
+#EXTINF:-999 tvg-logo="" group-title="PANAMA", OYE TV
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 
-#EXTINF:-999 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="ADULT",JENNY TV
-https://59ec5453559f0.streamlock.net/JennyLive/smil:web/chunklist_w143344511_b1896000.m3u8
+#EXTINF:-999 tvg-logo="" group-title="PANAMA",TVMAX 9
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="PANAMA", DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="PANAMA", BTV BOCAS DEL TORO
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 
 #EXTINF:-999 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e2a0874ed649b3ec721875b1892310d2.webp" group-title="24/7 - MÚSICA",AMORDISCOS
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=782950e6
 
 #EXTINF:-400 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="24/7 - MÚSICA",TOP MUSIC
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w738429815.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="24/7 - MÚSICA",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-999 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d48ad13c1fa2244fa089aed5e44e8fcd.webp" group-title="24/7 - MÚSICA", PORTAL CARIBEÑO
 https://stream.ads.ottera.tv/cl/230827cjlcj15m3b6ejgtimomg/1280x720_2300000_0_f.m3u8?i=475_1083
@@ -330,6 +321,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-999 tvg-id="24 HORAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="NEWS",DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
+#EXTINF:-999 tvg-id="24 HORAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="NEWS",DW EN ESPAÑOL OPC 2
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
 #EXTINF:-999 tvg-id="24 HORAS" tvg-logo="https://i.imgur.com/vt7cXcG.png" group-title="NEWS", 24 HORAS
 https://24hgl8src2.akamaized.net/rtve-tdt/24h_all/rtve-tdt/24h_576p/chunks.m3u8
 
@@ -354,8 +348,11 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_2794690609_b26
 #EXTINF:-999 tvg-id="CNN en Español" tvg-logo="https://i.ibb.co/MGr8ct1/CNN-Espa-ol-Logo-Viejo.png" group-title="NEWS", CNN en Español
 http://191.98.171.198:4000/play/a00h/index.m3u8
 
+#EXTINF:-999 tvg-id="CNN en Español" tvg-logo="https://i.ibb.co/MGr8ct1/CNN-Espa-ol-Logo-Viejo.png" group-title="NEWS", CNN en Español OPC 2
+http://181.78.24.67:8010/play/a03p/index.m3u8
+
 #EXTINF:-999 tvg-id="CNN Chile" tvg-logo="https://i.ibb.co/C00ktsT/1200px-CNN-Chile-logo-2017-svg.png" group-title="NEWS", CNN Chile
-http://191.98.171.198:4000/play/a03w/index.m3u8
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-999 tvg-id="CNN International" tvg-logo="https://i.ibb.co/gTYtpxW/CNN-International-logo-32-A54-E6066-seeklogo-com.png" group-title="NEWS", CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -370,7 +367,7 @@ http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://181.78.24.187:8006/play/a0b9/index.m3u8
 
 #EXTINF:-999 tvg-id="France 24" tvg-name="" tvg-logo="https://i.ibb.co/FsQzGmM/France24.png" group-title="NEWS", France 24
-https://www.youtube.com/watch?v=XDJPzMznAjU&pp
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-999 tvg-id="Fox News Channel" tvg-logo="https://i.ibb.co/v1S0fhQ/1024px-Fox-News-Channel-logo-svg.png" group-title="NEWS", Fox News Channel
 https://m3ukodi.com/developer/telelatinohds/telelatinohd.php?334#&f=.m3u8
@@ -383,6 +380,9 @@ https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/pla
 
 #EXTINF:-999 tvg-id="Imagen Noticias" tvg-name="" tvg-logo="https://i.ibb.co/YLBLwhv/imagentv.png" group-title="NEWS", Imagen Noticias
 http://45.90.105.74:25461/Universochingatuculo/HA280622/30354|user-agent=UniversoSport
+
+#EXTINF:-999 tvg-id="Imagen Noticias" tvg-name="" tvg-logo="https://i.ibb.co/YLBLwhv/imagentv.png" group-title="NEWS", Imagen Noticias
+https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLr92qY9VeLlOcubqLelKvTuAl52S7pxpmIrsdMhcRqJL)/dm/3/x82z4if/d/live-2.m3u8
 
 #EXTINF:-999 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ykJVPTv/1200px-Logotipo-de-Teletrece-svg.png" group-title="NEWS", T13 CHile
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
@@ -519,6 +519,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXTINF:-999 tvg-logo="https://i.ibb.co/YbbKjxc/bcs.jpg" group-title="DEPORTES", BESTCABLE SPORTS
 https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
 
+#EXTINF:-999 tvg-logo="" group-title="DEPORTES", CONTACTO DEPORTIVO
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="DEPORTES", DEPORTV ARGENTINA
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-999 tvg-logo="https://i.ibb.co/ZdDnH8N/Cdo.jpg" group-title="DEPORTES", CDO PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -614,6 +620,41 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtvfigth.json
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES", SEO 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES", SEO 2 KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/2SEO.m3u8 
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES", SEO 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES",SEO 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES", SEO 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/5SEO.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES",SEO 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/6SEO.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES",SEO 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #EXTINF:-999 tvg-logo="https://i.ibb.co/cTC9Jws/Logo-DHE.png" group-title="CINE Y SERIES", DHE
@@ -935,6 +976,12 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 http://138.59.177.34:8000/play/a04d/index.m3u8
 
+#EXTINF:-999 tvg-logo="https://i.ibb.co/jvLxT53/golden.png" group-title="CINE Y SERIES", GOLDEN OPC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/golden.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+
 #EXTINF:-999 tvg-logo="https://i.ibb.co/VmvsS2x/640px-Golden-Edge-Logo-2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/goldenedge.json
@@ -962,11 +1009,23 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
+#EXTINF:-999 tvg-logo="" group-title="ENTRETENIMIENTO",TASTEMADE EN ESPAÑOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/tlnovelas.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-999 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" group-title="ENTRETENIMIENTO", TLNOVELAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/tlnovelas.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
+
+#EXTINF:-999 tvg-logo="" group-title="ENTRETENIMIENTO",NOVELISIMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/tlnovelas.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://novelisima.akamaized.net:443/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
 
 #EXTINF:-999 tvg-id="" tvg-logo="https://i.ibb.co/sRY6wcW/e0dfabe2e41f7f70a14304ada8d95b4a.webp" group-title="ENTRETENIMIENTO", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
@@ -1008,6 +1067,12 @@ https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd
 #EXTINF:-999 tvg-id="Hola TV" tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="ENTRETENIMIENTO", HOLA TV
 http://138.59.177.34:8000/play/a05o/index.m3u8
 
+#EXTINF:-999 tvg-id="Hola TV" tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="ENTRETENIMIENTO", HOLA TV OPC 2
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
+#EXTINF:-999 tvg-id="Hola TV" tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="ENTRETENIMIENTO", HOLA PLAY
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/telemundo.json
@@ -1038,6 +1103,9 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/id.json
 https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd
+
+#EXTINF:-999 tvg-id="" tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="CIENCIA Y CULTURA", AGRO TV FHD
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-999 tvg-id="" tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="CIENCIA Y CULTURA", AGRO TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -1078,6 +1146,16 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/gourmet.json
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
 
+#EXTINF:-999 tvg-logo="" group-title="KIDS", BABY FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/diskids.json
+https://origin1.noisypeak.com:443/4XhPa5v93P3za6G0cMyV/track_0_2500/playlist.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="KIDS", PAKA PAKA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/diskids.json
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
 #EXTINF:-999 tvg-logo="https://i.ibb.co/hFx2x0J/discoverykids.png" group-title="KIDS", DISCOVERY KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/diskids.json
@@ -1104,8 +1182,16 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/cinecanal.json
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
 
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES",CINE AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disney.json
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
 #EXTINF:-999 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cinema.jpg?itok=aNc4Zfaf" group-title="CINE Y SERIES",CINEMA
 https://stream.ads.ottera.tv/cl/230827cjlcs85m3b6ejgtip840/1280x720_3071200_0_f.m3u8?i=475_4829
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES",CINEMA +
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1234,6 +1320,16 @@ https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cn.json
 https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd
 
+#EXTINF:-999 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" group-title="KIDS", CARTOON NETWORK OPC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cn.json
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="KIDS", CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cn.json
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
 #EXTINF:-999 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="CIENCIA Y CULTURA", NATGEO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/natgeo.json
@@ -1321,10 +1417,21 @@ https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_
 #EXTINF:-999 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" group-title="CINE Y SERIES", AXN
 https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 
-#EXTINF:-999 tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" group-title="CINE Y SERIES", SONY
+#EXTINF:-999 tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" group-title="CINE Y SERIES", SONY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES", SONY MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-999 tvg-logo="" group-title="CINE Y SERIES", SONY CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1597,6 +1704,9 @@ https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE EN ESPAÑOL OPC 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
+
+#EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE EN ESPAÑOL OPC 3
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-999 tvg-id=""40 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="CIENCIA Y CULTURA", LOVE NATURE (España)
@@ -1686,11 +1796,17 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
 
-#EXTINF:-999 tvg-logo="https://i.ibb.co/SvD2QvT/Las-Estrellas-logo-2016.png" group-title="MEXICO", LAS ESTRELLAS
+#EXTINF:-999 tvg-logo="https://i.ibb.co/SvD2QvT/Las-Estrellas-logo-2016.png" group-title="MEXICO", EL CANAL DE LAS ESTRELLAS MX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/estrellas.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+
+#EXTINF:-999 tvg-logo="https://i.ibb.co/SvD2QvT/Las-Estrellas-logo-2016.png" group-title="MEXICO", EL CANAL DE LAS ESTRELLAS MX OPC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/estrellas.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/kQVkMb3/Logo-Foro-TV-2020.png" group-title="MEXICO", FORO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2486,6 +2602,9 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421516
 
 #EXTINF:-999 tvg-id="disneyxd.us" tvg-name="DISNEY XD (US)" tvg-logo="https://www.seekpng.com/png/detail/142-1427991_disney-xd-logo-png-disney-xd.png" group-title="KIDS",DISNEY XD (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421519
+
+#EXTINF:-999 tvg-id="disneyxd.us" tvg-name="DISNEY XD (US)" tvg-logo="" group-title="KIDS",LATINO KIDS
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-999 tvg-id="hsn2.us" tvg-name="HSN (US)" tvg-logo="https://corporate.hsn.com/wp-content/plugins/newsroom/themes/qvc-hsn/images/svg/img_placeholder.png" group-title="USA",HSN (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449183
