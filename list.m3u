@@ -994,7 +994,7 @@ http://181.78.8.90:16123/play/ch47
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 http://181.78.8.90:16123/play/ch46
 
-#EXTINF:-999 tvg-id="" tvg-id="GPRED2SDo" tvg-name="GPRED2SD" tvg-logo="https://i.ibb.co/8KtCy4G/goldenpremier22.png" group-title="CINE Y SERIESS", GOLDEN PREMIER 2
+#EXTINF:-999 tvg-id="" tvg-id="GPRED2SDo" tvg-name="GPRED2SD" tvg-logo="https://i.ibb.co/8KtCy4G/goldenpremier22.png" group-title="CINE Y SERIES", GOLDEN PREMIER 2
 http://vlmain.hopto.org:25461/live/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/27.m3u8|User-agentt=https://www.google.com.mx/
 
 #EXTINF:-999 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" group-title="CINE Y SERIES", MULTIPLEX DORADO
@@ -1110,7 +1110,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-999 tvg-id="" tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="CIENCIA Y CULTURA", AGRO TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-999 tvg-id="" tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/02/MOSC.png" group-title="CIENCIA  CULTURA", AGROTENDENCIA TV
+#EXTINF:-999 tvg-id="" tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/02/MOSC.png" group-title="CIENCIA Y CULTURA", AGROTENDENCIA TV OPC 2
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-999 tvg-id="" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg" group-title="CIENCIA Y CULTURA", CHACRA TV
