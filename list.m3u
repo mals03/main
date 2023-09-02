@@ -946,7 +946,7 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 #EXTINF:-2 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" group-title="DEPORTES", GOL PERU
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=686
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="DEPORTES", AFIZZIONADOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="DEPORTES", AFIZZIONADOS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/afizzionados.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
@@ -1534,43 +1534,41 @@ https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 #EXTINF:-2 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="DEPORTES", TYC SPORTS
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" group-title="DEPORTES", GOLTV ECUADOR
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" group-title="DEPORTES", GOLTV ECUADOR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/goltvec.json
-https://canales123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" group-title="DEPORTES", GOLTV 2
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=287
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="DEPORTES", WIN SPORTS PLUS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-2 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="OTROS", WIN SPORTS PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/winplus.json
-https://canales123.futbolenvivo.xyz/stream/manifest.mpd?id=1251
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1251
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" group-title="DEPORTES", WIN DEPORTES
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-2 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" group-title="DEPORTES", WIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/win.json
-https://canales123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" group-title="DEPORTES", WINSPORT 2
-https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=292
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6yMj2J/euro.jpg" group-title="DEPORTES", EUROSPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/euro1.json
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmqGtyx/euro2.gif" group-title="DEPORTES", EUROSPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/euro2.json
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-2 tvg-logo="https://i.ibb.co/BPp74sy/ufc.webp" group-title="DEPORTES", RED UFC
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=97
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" group-title="DEPORTES", TIGO SPORTS BOLIVIA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="OTROS", TIGO SPORTS BOLIVIA
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=764
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" group-title="DEPORTES", TIGO DEPORTES COSTA RICA
-https://channels123.futbolenvivo.xyz/streams3/tigocr.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-2 tvg-logo="https://i.ibb.co/v30TL5k/f1.jpg" group-title="DEPORTES",  DAZN F1
@@ -2043,117 +2041,7 @@ https://dtvott-abc.akamaized.net/dash_live_1179/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/tctv.json
 https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/VvrMFRC/eLkl-Ro4.jpg" group-title="PARAGUAY", ABC
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/fCm8Hp9/trecepy.png" group-title="PARAGUAY", TRECE
-https://streaming.trece.com.py/live/trece.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/PQSbRxB/logosnt.jpg" group-title="PARAGUAY", SNT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/snt.json
-https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/mGrWvNd/c9n.png" group-title="PARAGUAY", C9N
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/c9n.json
-https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/4N9Lrk7/npy.png" group-title="PARAGUAY", NPY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/npy.json
-https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/djVx5jb/Telefuturo2017.png" group-title="PARAGUAY", TELEFUTURO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/telefuturo.json
-https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/ZhYyY4B/AKed-OLQt-BLUYd-Qp-TUbbzv-TFC-WRi-Ubf-N-epnam-Wo-Sdm0-Jg-s900- ck-c0x00ffffff-no-rj.jpg" group-title="PARAGUAY", PARAGUAY TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/paraguaytv.json
-https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/zQV9tMB/latele-m.jpg" group-title="PARAGUAY", LATELE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/latele.json
-https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/vhzrj4t/371a6f49-6c31-46f1-b481-18ef14ada3a0-m.jpg" group-title="PARAGUAY", PARAVISIÓN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/paravision.json
-https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/WGV7ZPQ/AKed-OLTsl-SPml87-MT9-Xc-ECZXld-No1-Yiqd-TLv-LL7tk-E0-I0-Q-s900- ck-c0x00ffffff-no-rj.jpg" group-title="PARAGUAY", CÁMARA DE TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/tvcamara.json
-https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/7J2jDLN/Gen-en-vivo.jpg" group-title="PARAGUAY", GEN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/gen.json
-https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/LhvfyV0/No-se-encontro-la-pagina-diario-5dias.png" group-title="PARAGUAY", 5 DIAS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/5dias.json
-https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/85hQ62g/de161b6b-6495-4b7e-976e-df9da84a0409-m.jpg" group-title="PARAGUAY", UNICANAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/unicanal.json
-https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/N1L1qBh/116c52f1-8f55-4325-af6d-ab11f98e81d5-m.jpg" group-title="PARAGUAY", SURTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/surtv.json
-https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/6FKqcbs/RPC-HD-2.png" group-title="PARAGUAY", RPC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys3/trece.json
-https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/7kLr6dT/Repretel-2-CDR.png" group-title="COSTA RICA", CANAL 2
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/GxjqSpn/1200px-Repretel-4-logo.png" group-title="COSTA RICA", CANAL 4
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/WPQrBwC/Canal6CR.png" group-title="COSTA RICA", CANAL 6
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/Vt6SH6v/Multi8.png" group-title="COSTA RICA", CANAL 8
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/nzRk3ZW/1200px-Repretel-11-logo.png" group-title="COSTA RICA", CANAL 11
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/WkPKq0y/tl1.jpg" group-title="COSTA RICA", TELEUNO
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/w7cftR1/HCH.jpg" group-title="HONDURAS", HCH
-https://stream-01.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpmrsbNrliaz3nHUtAU0Ixe6rqDXJ-Z5Q1B307Luf7Kef)/dm/3/x81za5c/s/live-3.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/WV9qqc5/ATV.png" group-title="HONDURAS", Cuatrimotos
-https://emisoras.hn:8081/atv/index.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/WV9qqc5/ATV.png" group-title="HONDURAS", ATV 2
-https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/fCtqmBZ/SERCA.jpg" group-title="HONDURAS", SERCANOTV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/VC4PK4G/TEN.png" group-title="HONDURAS", DIEZ
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/RTX1MF2/11.png" group-title="HONDURAS", CANAL11
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/0Xn31pr/TVC.jpg" group-title="HONDURAS", TELEVICENTRO
-http://138.117.4.70:8075/channel2/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="https://i.ibb.co/QmN6cMc/TD.jpg" group-title="HONDURAS", TODO DEPORTES
+#EXTINF:-2 tvg-logo="https://i.ibb.co/QmN6cMc/TD.jpg" group-title="DEPORTES", TODO DEPORTES
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDIzIDM6MTc6NDIgQU0maGFzaF92YWx1ZT0yQmNBa
 
 #EXTINF:-2 tvg-id="nflredzone.us" tvg-name="REDZONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5tnuPhteiCTfS0Tvm_adUPAGN7WfpJqafSfrZUcKbIPQvPfyUlzJK60YiejQPzNuwHA&usqp=CAU" group-title="SPORTS BOX",REDZONE
