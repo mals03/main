@@ -1478,12 +1478,12 @@ https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SONY MOVIES
+#EXTINF:-2 tvg-logo="https://i.ibb.co/KzpSXV1/SMOVIES.png" group-title="CINE Y SERIES", SONY MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SONY MOVIES OPC 2
+#EXTINF:-2 tvg-logo="https://i.ibb.co/KzpSXV1/SMOVIES.png" group-title="CINE Y SERIES", SONY MOVIES OPC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
