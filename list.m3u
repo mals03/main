@@ -519,10 +519,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXTINF:-2 tvg-logo="https://i.ibb.co/YbbKjxc/bcs.jpg" group-title="DEPORTES", BESTCABLE SPORTS
 https://ca2.inka.net.pe/bestcablesports/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="DEPORTES", CONTACTO DEPORTIVO
+#EXTINF:-2 tvg-logo="https://i.ibb.co/RShrvkn/fondo.jpg" group-title="DEPORTES", CONTACTO DEPORTIVO
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="DEPORTES", DEPORTV ARGENTINA
+#EXTINF:-2 tvg-logo="https://i.ibb.co/18T670t/Canal-Depor-TV.jpg" group-title="DEPORTES", DEPORTV ARGENTINA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -621,37 +621,37 @@ https://dtvott-jbc.akamaized.net/dash_live_0095/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtvfigth.json
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SEO 1
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES", SEO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SEO 2 KIDS
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES", SEO 2 KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/2SEO.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SEO 3
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES", SEO 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES",SEO 4
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES",SEO 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SEO 5
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES", SEO 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/5SEO.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES",SEO 6
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES",SEO 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/6SEO.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES",SEO 7
+#EXTINF:-2 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="CINE Y SERIES",SEO 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/universalcine.json
 https://live.seo.tv.bo/live/7SEO.m3u8
@@ -958,25 +958,25 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 
-#EXTINF:-2 tvg-logo="" group-title="DEPORTES", MOTO GP
+#EXTINF:-2 tvg-logo="https://i.ibb.co/rts4CTv/images-q-tbn-ANd9-Gc-SAG5go-QF-t8-IW5dtp-MX7ejze-S42-NDZXo-Ec2w-usqp-CAU.jpg" group-title="DEPORTES", MOTO GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=""
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 https://m4iswbjnhzrz.fordems.live/live/for-demsm/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="DEPORTES",EVENTO DEPORTIVO 1
+#EXTINF:-2 tvg-logo="https://i.ibb.co/rts4CTv/images-q-tbn-ANd9-Gc-SAG5go-QF-t8-IW5dtp-MX7ejze-S42-NDZXo-Ec2w-usqp-CAU.jpg" group-title="DEPORTES",EVENTO DEPORTIVO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=""
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="DEPORTES",EVENTO DEPORTIVO 2
+#EXTINF:-2 tvg-logo="https://i.ibb.co/rts4CTv/images-q-tbn-ANd9-Gc-SAG5go-QF-t8-IW5dtp-MX7ejze-S42-NDZXo-Ec2w-usqp-CAU.jpg" group-title="DEPORTES",EVENTO DEPORTIVO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=""
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
 https://live-edge-2.webinar.ru/mgw/430686243/emd0b4a83c38bbc2554c2aa29c6632c2dd/chunklist.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="DEPORTES",EVENTO DEPORTIVO 3
+#EXTINF:-2 tvg-logo="https://i.ibb.co/rts4CTv/images-q-tbn-ANd9-Gc-SAG5go-QF-t8-IW5dtp-MX7ejze-S42-NDZXo-Ec2w-usqp-CAU.jpg" group-title="DEPORTES",EVENTO DEPORTIVO 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=""
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=""
@@ -1205,12 +1205,6 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/cinecanal.json
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.cxtvenvivo.com/tv-en-vivo/cine-ar"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/9TM9WHM/Logo-cine-ar.jpg" group-title="CINE Y SERIES",CINE AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disney.json
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.cxtvenvivo.com/tv-en-vivo/cine-ar"
 #EXTINF:-2 tvg-logo="https://i.ibb.co/9TM9WHM/Logo-cine-ar.jpg" group-title="CINE Y SERIES",CINE AR
@@ -1497,7 +1491,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://telefullenvivo.com/sony-comedias-en-vivo/"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/KzpSXV1/SMOVIES.png" group-title="CINE Y SERIES", SONY MOVIES OPC 3
+#EXTINF:-2 tvg-logo="https://ibb.co/G5rfqQx" group-title="CINE Y SERIES", SONY NOVELAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
