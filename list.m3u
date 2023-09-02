@@ -864,7 +864,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/foxsports.json
-#EXTINF:-2 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", FOX SPORTS
+#EXTINF:-2 tvg-logo="https://i.ibb.co/WF64DTN/Fox-Sports-2.png" group-title="DEPORTES", FOX SPORTS
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/WDTGR5W/foxsportsmx.png" group-title="DEPORTES", FOX SPORTS MX
@@ -1134,7 +1134,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-2 tvg-id="" tvg-logo="https://i.postimg.cc/8CP6r9bV/272131317-503532884474533-5323509776501579157-n.jpg" group-title="CIENCIA Y CULTURA", AGRO TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-2 tvg-id="" tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/02/MOSC.png" group-title="CIENCIA Y CULTURA", AGROTENDENCIA TV OPC 2
+#EXTINF:-2 tvg-id="" tvg-logo="https://i.ibb.co/JtR1qW6/qmsx1y-F-400x400.jpg" group-title="CIENCIA Y CULTURA", AGROTENDENCIA TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-2 tvg-id="" tvg-logo="https://www.revistachacra.com.ar/files/image/15/15520/5807d06c86d5d.jpg" group-title="CIENCIA Y CULTURA", CHACRA TV
@@ -1206,15 +1206,22 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys2/cinecanal.json
 https://anbalancer.express.com.ar/live/c1eds/CINECANAL_HD/SA_DASH_cipix/CINECANAL_HD.mpd
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES",CINE AR
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.cxtvenvivo.com/tv-en-vivo/cine-ar"
+#EXTINF:-2 tvg-logo="https://i.ibb.co/9TM9WHM/Logo-cine-ar.jpg" group-title="CINE Y SERIES",CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disney.json
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.cxtvenvivo.com/tv-en-vivo/cine-ar"
+#EXTINF:-2 tvg-logo="https://i.ibb.co/9TM9WHM/Logo-cine-ar.jpg" group-title="CINE Y SERIES",CINE AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/disney.json
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1113891338.m3u8
+
 #EXTINF:-2 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cinema.jpg?itok=aNc4Zfaf" group-title="CINE Y SERIES",CINEMA
 https://stream.ads.ottera.tv/cl/230827cjlcs85m3b6ejgtip840/1280x720_3071200_0_f.m3u8?i=475_4829
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES",CINEMA +
+#EXTINF:-2 tvg-logo="https://i.ibb.co/5MRwZXj/cinema-20157975-logowik-com.webp" group-title="CINE Y SERIES",CINEMA +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL
@@ -1241,25 +1248,25 @@ https://live.tv247us.com/tv247/fs1.m3u8
 https://live.tv247us.com/tv247/fs2.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/v30TL5k/f1.jpg" tvg-group="OTROS", FOX SPORTS PREMIUM
+#EXTINF:-2 tvg-logo="https://i.ibb.co/ftQF2SS/foxsportspremium.png" tvg-group="DEPORTES", FOX SPORTS PREMIUM
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=192
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" group-title="DEPORTES", DAZN 1
+#EXTINF:-2 tvg-logo="https://i.ibb.co/n7dgzsS/dazn1es.png" group-title="DEPORTES", DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn1.json
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" group-title="DEPORTES", DAZN 2
+#EXTINF:-2 tvg-logo="https://i.ibb.co/10PsD69/dazn2es.png" group-title="DEPORTES", DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn2.json
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" group-title="DEPORTES", DAZN laliga
+#EXTINF:-2 tvg-logo="https://i.ibb.co/Jd75QCM/dazn-laliga1.png" group-title="DEPORTES", DAZN laliga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn3.json
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" group-title="DEPORTES", DAZN F1
+#EXTINF:-2 tvg-logo="https://i.ibb.co/qWDV3bS/daznf1.png" group-title="DEPORTES", DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn4.json
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
@@ -1473,7 +1480,7 @@ https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_
 #EXTINF:-2 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" group-title="CINE Y SERIES", AXN
 https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/GWHNRyN/sony.png" group-title="CINE Y SERIES", SONY CHANNEL
+#EXTINF:-2 tvg-logo="https://i.ibb.co/FsyS79X/images-q-tbn-ANd9-Gc-Tcx-PF9-Uj-Puq9aip-Qifmf-HGTg-TOb-Tv-XJi4-G6w-usqp-CAU.png" group-title="CINE Y SERIES", SONY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
@@ -1489,7 +1496,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
 http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="CINE Y SERIES", SONY CINE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://telefullenvivo.com/sony-comedias-en-vivo/"
+#EXTINF:-2 tvg-logo="https://i.ibb.co/KzpSXV1/SMOVIES.png" group-title="CINE Y SERIES", SONY MOVIES OPC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co/W6PXJc2/Sony-Cine-2021-Logo.png" group-title="CINE Y SERIES", SONY CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/sony.json
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
