@@ -3,15 +3,48 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=
-#EXTVLCOPT:http-referer=https://www.telegratishd.com/
-#EXTINF:-1 group-title="PRUEBA" tvg-logo="",FOX SPORT PREMIUM
-https://live.telelatinohd.com/xtrema2.php?id=364_#.m3u8
+#EXTVLCOPT:http-referer=
+#EXTINF:-1 group-title="PRUEBA" tvg-logo="",IMAGEN TV
+https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=PABVrdRuhB99y_VYT7kr-yZCpZ3hTWy5ZKMjd1heI2Zv2qtf-VlNhkRDC_dx-vPEkIwmA3Bqdvi6qBcMrRmlgQ&dmTs=574970&dmV1st=CCE6D85CF7DD50FD24CA7970E730EE0A
 
-#EXTINF:-2 group-title="PRUEBA" tvg-logo="",NOTICIAS CARACOL
-https://www.youtube.com/live/8GmR9H2iH8Q-m3u8
+#EXTINF:-1 tvg-logo="" group-title="PRUEBA",CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-2 group-title="PRUEBA" tvg-logo="",RTVE NOTICIAS ES
-https://youtu.be/8GmR9H2iH8Q
+#EXTINF:-1 tvg-logo="" group-title="PRUEBA",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PRUEBA",NASA MEDIA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PRUEBA",SPACE CHANNEL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
+
+#EXTINF:-1 tvg-id="SONY CINE" tvg-logo="" group-title="PRUEBA" audio-track="",SONY CINE
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="" group-title="PRUEBA" audio-track="",NAT GEO 
+https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-id="VEVO POP" tvg-logo="" group-title="MUSICA" audio-track="",VEVO POP
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
+
+#EXTINF:-1 tvg-id="VEVO LATINO" tvg-logo="" group-title="MUSICA" audio-track="",VEVO LATINO
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live.m3u8
+
+#EXTINF:-1 tvg-id="VEVO REGGUETON" tvg-logo="" group-title="MUSICA" audio-track="",VEVO REGGUETON
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
+
+#EXTINF:-1 tvg-id="VEVO HIP HOP" tvg-logo="" group-title="MUSICA" audio-track="",VEVO HIP HOP
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VEVO 70 tvg-logo="" group-title="MUSICA" audio-track="",VEVO 70
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
+
+#EXTINF:-1 tvg-id="VEVO 00S" tvg-logo="" group-title="MUSICA" audio-track="",VEVO 00S
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
+
+#EXTINF:-1 tvg-id="VH1 ITALIANO" tvg-logo="" group-title="MUSICA" audio-track="",VH1 ITALIANO
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-2 tvg-logo="" group-title="ECUADOR",ECUAVISA
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
