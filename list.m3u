@@ -7,6 +7,24 @@
 #EXTINF:-1 group-title="PRUEBA" tvg-logo="",IMAGEN TV
 https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=PABVrdRuhB99y_VYT7kr-yZCpZ3hTWy5ZKMjd1heI2Zv2qtf-VlNhkRDC_dx-vPEkIwmA3Bqdvi6qBcMrRmlgQ&dmTs=574970&dmV1st=CCE6D85CF7DD50FD24CA7970E730EE0A
 
+#EXTINF:-1 tvg-id="BULLS" tvg-logo="" group-title="DEPORTES" audio-track="",BULLS
+http://s846397078.mialojamiento.es/w8jy/mp.php/https://gintna100.tulix.tv/gin_live/torosbulls/a821b21688490d6220774118da25d779/62d05ff8/index.m3u8
+
+#EXTINF:-1 tvg-id="TOROS LIVE" tvg-logo="" group-title="DEPORTES" audio-track="",TOROS LIVE
+https://piratilla.com/496042/torole.m3u8
+
+#EXTINF:-1 tvg-id="WILDPLANET" tvg-logo="" group-title="CULTURAL" audio-track="",WILDPLANET
+https://d3c7duantorcb1.cloudfront.net:443/amgwildplanetuk/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="THE MOVIE HUB" tvg-logo="" group-title="PREMIUM" audio-track="",THE MOVIE HUB
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24 HOUR FREE MOVIES" tvg-logo="" group-title="PREMIUM" audio-track="",24 HOUR FREE MOVIES
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-EdgeVideo/145.m3u8
+
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="" group-title="PREMIUM" audio-track="",COSMO HD
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="PRUEBA",CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
