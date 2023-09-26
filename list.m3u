@@ -1,7 +1,7 @@
 #EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
 
-#EXTINF:-2 group-title="PRUEBA" tvg-logo="",VOLTERIX MUSIC
-https://www.youtube.com/watch?v=g7Kx0AKmfTg
+#EXTINF:-1 group-title="" tvg-logo="",FOX SPORT PREMIUK
+https://www.vtvcable.com/web/bypass.php?url=Ly9lbWJlZC50ZWxleHRyZW1hLmNvbS9lbWJlZDIvZm94c3BvcnRzcHJlbWl1bS5odG1s
 
 #EXTINF:-2 group-title="PRUEBA" tvg-logo="",NOTICIAS CARACOL
 https://www.youtube.com/live/8GmR9H2iH8Q-m3u8
