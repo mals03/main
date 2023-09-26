@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=g7Kx0AKmfTg
 
 #EXTINF:-2 group-title="PRUEBA" tvg-logo="",NOTICIAS CARACOL
-https://www.youtube.com/watch?v=1EdtlA5WBaE
+https://www.youtube.com/live/8GmR9H2iH8Q-m3u8
 
 #EXTINF:-2 group-title="PRUEBA" tvg-logo="",RTVE NOTICIAS ES
 https://youtu.be/8GmR9H2iH8Q
@@ -1550,7 +1550,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-2 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="OTROS", WIN SPORTS PLUS
+#EXTINF:-2 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" group-title="DEPORTES", WIN SPORTS PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/winplus.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1251
@@ -1576,7 +1576,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=97
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="OTROS", TIGO SPORTS BOLIVIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="DEPORTES", TIGO SPORTS BOLIVIA
 https://channels123.futbolenvivo.xyz/streams3/master.m3u8?id=764
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
