@@ -1,9 +1,9 @@
 #EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
 
-#KODIPROP:inputstream.adaptive.license_type="clearkey"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-user-agent=YOUR_AGENT
-#EXTVLCOPT:http-referer="https://www.telegratishd.com/"
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:http-referer=https://www.telegratishd.com/
 #EXTINF:-1 group-title="PRUEBA" tvg-logo="",FOX SPORT PREMIUM
 https://live.telelatinohd.com/xtrema2.php?id=364_#.m3u8
 
