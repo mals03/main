@@ -1,7 +1,11 @@
 #EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
 
-#EXTINF:-1 group-title="PRUEBA" tvg-logo="",FOX SPORT PREMIUK
-https://embed.telextrema.com/embed2/foxsportspremium.html
+#KODIPROP:inputstream.adaptive.license_type="clearkey"
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent=YOUR_AGENT
+#EXTVLCOPT:http-referer="https://www.telegratishd.com/"
+#EXTINF:-1 group-title="PRUEBA" tvg-logo="",FOX SPORT PREMIUM
+https://live.telelatinohd.com/xtrema2.php?id=364_#.m3u8
 
 #EXTINF:-2 group-title="PRUEBA" tvg-logo="",NOTICIAS CARACOL
 https://www.youtube.com/live/8GmR9H2iH8Q-m3u8
