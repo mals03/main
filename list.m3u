@@ -6,6 +6,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PRUEBA", A4CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PRUEBA",PASIONES HD
+http://190.83.119.67:8000/play/a0td
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PRUEBA", A3SERIES INTERNACIONAL
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
