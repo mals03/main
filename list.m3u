@@ -1,5 +1,8 @@
 #EXTM3U list-name="1 TV PREMIUM" list-image="https://i.ibb.co/Th55QFk/In-Shot-20230527-114551234.jpg"
 
+#EXTINF:-2 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jh6r333/univision-34-la.png" group-title="PRUEBA",Univision Los Angeles
+https://m3ukodi.com/developer/televall/televall.php?106#&f=.m3u8
+
 #EXTINF:-1 tvg-id="AmericaSports.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="PRUEBA", América Sports (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 
