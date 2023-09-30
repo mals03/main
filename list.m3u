@@ -1640,9 +1640,13 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1251
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-2 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="DEPORTES", WIN SPORTS OPC 2
+#EXTINF:-2 tvg-logo="g" group-title="DEPORTES", 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTVLCOPT:http-user-agent=
+
+#EXTINF:-2 group-title="DEPORTES" tvg-logo="http://x.playerlatino.live/winsportsplus.pn", WIN SPORTS OPC 2
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)"
+#EXTVLCOPT:http-referer=YOUR_REFERER
 https://3.ultimate2019.com/stream/hls/881
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6yMj2J/euro.jpg" group-title="DEPORTES", EUROSPORTS 1
