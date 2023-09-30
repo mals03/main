@@ -12,8 +12,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PRUEBA", A4CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PRUEBA",PASIONES HD
-http://190.83.119.67:8000/play/a0td
+#KODIPROP:inputstream.adaptive.license_type=playready
+#KODIPROP:inputstream.adaptive.license_key=LICENSE_KEY_LINK
+#EXTVLCOPT:http-user-agent="https://megatelevisionhd.us/xmlrpc.php"
+#EXTVLCOPT:http-referer=YOUR_REFERER
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PRUEBA", TELEMUNDO HD
+https://webudit.webdicdn.lol/lb/premium131/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFJ441F/mega.jpg" group-title="PRUEBA", MEGA CHILE
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
